@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moving Ball | Ali Ayaz</title>
+    <link>/tag/moving-ball/</link>
+      <atom:link href="/tag/moving-ball/index.xml" rel="self" type="application/rss+xml" />
+    <description>Moving Ball</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Ali Ayaz © 2020</copyright><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Moving Ball</title>
+      <link>/tag/moving-ball/</link>
+    </image>
+    
+    <item>
+      <title>Moving Ball</title>
+      <link>/project/external-project/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description>&lt;p&gt;In this project a ball moves up and down when we click on up/down button and when we click on left right button it moves left to right from that position.&lt;/p&gt;
+&lt;p&gt;A simple moving ball program developed in Visual Basic which contains 2 buttons up/down and left/right. If we click on left/right button then ball begins to move on left side and strikes the wall and moves backward to the right side. If we click on up/down button then ball moves in an up and down position where we stop the ball and if we click on stop button ball will be stopped.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

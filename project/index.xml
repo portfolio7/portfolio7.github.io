@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Ali Ayaz</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Ali Ayaz © 2020</copyright><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Moving Ball</title>
+      <link>/project/external-project/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description>&lt;p&gt;In this project a ball moves up and down when we click on up/down button and when we click on left right button it moves left to right from that position.&lt;/p&gt;
+&lt;p&gt;A simple moving ball program developed in Visual Basic which contains 2 buttons up/down and left/right. If we click on left/right button then ball begins to move on left side and strikes the wall and moves backward to the right side. If we click on up/down button then ball moves in an up and down position where we stop the ball and if we click on stop button ball will be stopped.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Questionare</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;In this project a ball moves up and down when we click on up/down button and when we click on left right button it moves left to right from that position.&lt;/p&gt;
+&lt;p&gt;A questionnaire program developed in Visual Basic with 10sec countdown.Each question contains 2 marks and if times out it consider 0 marks and shifts to next question. If result percentage is equal or above than 40 % program prints congratulations otherwise it prints sorry try again later.&lt;/p&gt;
+&lt;p&gt;In this project 10 MCQs questions with timer of 10 Sec. Each question has 2 marks and if the time rans out then question shifts to the next one and previous question contain 0 marks and after the questionnaire if the result marks is equal to or maximum to 40% then its print Comgratulations otherwise it prints Sorry next time.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
